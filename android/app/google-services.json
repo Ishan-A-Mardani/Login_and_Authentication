@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453146987570",
+    "project_id": "fir-auth-tutorial-15350",
+    "storage_bucket": "fir-auth-tutorial-15350.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453146987570:android:3ae1410f69190976c6002b",
+        "android_client_info": {
+          "package_name": "com.example.login_and_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453146987570-jhh5a4l7erouhs8b2631emubfae6f6nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUvDWW-KYjsrOLZM_0zdtuppqWjiwJ1Qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453146987570-jhh5a4l7erouhs8b2631emubfae6f6nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
